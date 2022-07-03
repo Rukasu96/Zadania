@@ -1,0 +1,15 @@
+C:\Users\Kuksz\Desktop\Lekcje\SVG\SVG\bin\Debug\net6.0\SVG.exe
+C:\Users\Kuksz\Desktop\Lekcje\SVG\SVG\bin\Debug\net6.0\SVG.deps.json
+C:\Users\Kuksz\Desktop\Lekcje\SVG\SVG\bin\Debug\net6.0\SVG.runtimeconfig.json
+C:\Users\Kuksz\Desktop\Lekcje\SVG\SVG\bin\Debug\net6.0\SVG.dll
+C:\Users\Kuksz\Desktop\Lekcje\SVG\SVG\bin\Debug\net6.0\SVG.pdb
+C:\Users\Kuksz\Desktop\Lekcje\SVG\SVG\obj\Debug\net6.0\SVG.csproj.AssemblyReference.cache
+C:\Users\Kuksz\Desktop\Lekcje\SVG\SVG\obj\Debug\net6.0\SVG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuksz\Desktop\Lekcje\SVG\SVG\obj\Debug\net6.0\SVG.AssemblyInfoInputs.cache
+C:\Users\Kuksz\Desktop\Lekcje\SVG\SVG\obj\Debug\net6.0\SVG.AssemblyInfo.cs
+C:\Users\Kuksz\Desktop\Lekcje\SVG\SVG\obj\Debug\net6.0\SVG.csproj.CoreCompileInputs.cache
+C:\Users\Kuksz\Desktop\Lekcje\SVG\SVG\obj\Debug\net6.0\SVG.dll
+C:\Users\Kuksz\Desktop\Lekcje\SVG\SVG\obj\Debug\net6.0\refint\SVG.dll
+C:\Users\Kuksz\Desktop\Lekcje\SVG\SVG\obj\Debug\net6.0\SVG.pdb
+C:\Users\Kuksz\Desktop\Lekcje\SVG\SVG\obj\Debug\net6.0\SVG.genruntimeconfig.cache
+C:\Users\Kuksz\Desktop\Lekcje\SVG\SVG\obj\Debug\net6.0\ref\SVG.dll
