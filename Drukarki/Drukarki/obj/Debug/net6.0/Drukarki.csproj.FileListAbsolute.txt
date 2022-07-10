@@ -1,0 +1,15 @@
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\Drukarki\Drukarki\bin\Debug\net6.0\Drukarki.exe
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\Drukarki\Drukarki\bin\Debug\net6.0\Drukarki.deps.json
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\Drukarki\Drukarki\bin\Debug\net6.0\Drukarki.runtimeconfig.json
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\Drukarki\Drukarki\bin\Debug\net6.0\Drukarki.dll
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\Drukarki\Drukarki\bin\Debug\net6.0\Drukarki.pdb
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\Drukarki\Drukarki\obj\Debug\net6.0\Drukarki.csproj.AssemblyReference.cache
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\Drukarki\Drukarki\obj\Debug\net6.0\Drukarki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\Drukarki\Drukarki\obj\Debug\net6.0\Drukarki.AssemblyInfoInputs.cache
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\Drukarki\Drukarki\obj\Debug\net6.0\Drukarki.AssemblyInfo.cs
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\Drukarki\Drukarki\obj\Debug\net6.0\Drukarki.csproj.CoreCompileInputs.cache
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\Drukarki\Drukarki\obj\Debug\net6.0\Drukarki.dll
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\Drukarki\Drukarki\obj\Debug\net6.0\refint\Drukarki.dll
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\Drukarki\Drukarki\obj\Debug\net6.0\Drukarki.pdb
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\Drukarki\Drukarki\obj\Debug\net6.0\Drukarki.genruntimeconfig.cache
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\Drukarki\Drukarki\obj\Debug\net6.0\ref\Drukarki.dll

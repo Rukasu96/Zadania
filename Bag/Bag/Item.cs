@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Bag
 {
-    class Item
+    abstract class Item
     {
 
         private int Weight;
@@ -25,10 +25,7 @@ namespace Bag
             }
         }
 
-        public virtual decimal ItemWeight()
-        {
-            return Weight;
-        }
+        public abstract decimal ItemWeight();
 
     }
 }

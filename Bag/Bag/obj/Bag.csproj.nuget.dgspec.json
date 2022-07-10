@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kuksz\\Desktop\\Lekcje\\Bag\\Bag\\Bag.csproj": {}
+    "C:\\Users\\Kuksz\\Desktop\\Lekcje\\Zadania\\Bag\\Bag\\Bag.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kuksz\\Desktop\\Lekcje\\Bag\\Bag\\Bag.csproj": {
+    "C:\\Users\\Kuksz\\Desktop\\Lekcje\\Zadania\\Bag\\Bag\\Bag.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kuksz\\Desktop\\Lekcje\\Bag\\Bag\\Bag.csproj",
+        "projectUniqueName": "C:\\Users\\Kuksz\\Desktop\\Lekcje\\Zadania\\Bag\\Bag\\Bag.csproj",
         "projectName": "Bag",
-        "projectPath": "C:\\Users\\Kuksz\\Desktop\\Lekcje\\Bag\\Bag\\Bag.csproj",
+        "projectPath": "C:\\Users\\Kuksz\\Desktop\\Lekcje\\Zadania\\Bag\\Bag\\Bag.csproj",
         "packagesPath": "C:\\Users\\Kuksz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kuksz\\Desktop\\Lekcje\\Bag\\Bag\\obj\\",
+        "outputPath": "C:\\Users\\Kuksz\\Desktop\\Lekcje\\Zadania\\Bag\\Bag\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
