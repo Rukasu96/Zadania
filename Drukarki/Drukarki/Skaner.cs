@@ -17,6 +17,11 @@ namespace Drukarki
 
         public string Skanuj()
         {
+            if(SzybkoscSkanowania <= 0)
+            {
+                throw new TooSmallValue();
+            }
+
             return "Skaner rozpoczyna skanowanie";
         }
 

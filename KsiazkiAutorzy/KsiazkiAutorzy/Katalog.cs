@@ -35,16 +35,16 @@ namespace KsiazkiAutorzy
             }
         }
 
-        public void ZnajdzPozycje(string Tytul, string Wydawnictwo)
+        public Pozycja ZnajdzPozycje(string Tytul, string Wydawnictwo)
         {
             foreach(Pozycja pozycja in Pozycje)
             {
                 if(pozycja.Tytul == Tytul || pozycja.Wydawnictwo == Wydawnictwo)
                 {
-                    pozycja.WypiszInfo();
+                    return pozycja;
                 }
-
             }
+            return null;
         }
 
     }

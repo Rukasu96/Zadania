@@ -8,7 +8,7 @@ namespace Drukarki
 {
     internal interface IDrukowanie
     {
-
+        //public int IloscTuszu { get; set; }
         String Drukuj();
 
     }

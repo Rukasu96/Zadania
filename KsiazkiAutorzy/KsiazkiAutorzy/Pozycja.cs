@@ -8,10 +8,13 @@ namespace KsiazkiAutorzy
 {
     abstract class Pozycja
     {
-        public string Tytul;
-        public int Id;
-        public string Wydawnictwo;
-        public int RokWydania;
+        private string tytul;
+        protected int Id;
+        private string wydawnictwo;
+        protected int RokWydania;
+
+        public string Tytul { get => tytul; set => tytul = value; }
+        public string Wydawnictwo { get => wydawnictwo; set => wydawnictwo = value; }
 
         public Pozycja()
         {

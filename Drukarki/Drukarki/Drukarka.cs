@@ -14,12 +14,15 @@ namespace Drukarki
         public Drukarka(string model, string marka, int iloscTuszu):base(model, marka)
         {
             IloscTuszu = iloscTuszu;
+
         }
 
         public string Drukuj()
         {
-            if (IloscTuszu <= 0)
-                return "Brak tuszu!";
+            if(IloscTuszu <= 0)
+            {
+                throw new TooSmallValue();
+            }
 
             return "Drukarka zaczyna drukować.";
         }

@@ -3,7 +3,7 @@
 List<IDrukowanie> drukujace = new List<IDrukowanie>();
 List<ISkanowanie> skanujace = new List<ISkanowanie>();
 
-Drukarka drukarka = new Drukarka("LG", "1000", 2);
+Drukarka drukarka = new Drukarka("LG", "1000", 0);
 Skaner skaner = new Skaner("Logitech", "025", 5);
 UrządzenieWielofunkcyjne urzadzenieWielofunkcyjne = new UrządzenieWielofunkcyjne("Philips", "0332", 2,"USB");
 
