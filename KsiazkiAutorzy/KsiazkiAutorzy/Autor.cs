@@ -6,32 +6,19 @@ using System.Threading.Tasks;
 
 namespace KsiazkiAutorzy
 {
-    internal class Autor
+    internal class Autor:Osoba
     {
-        private string imie;
-        private string nazwisko;
+        private string narodowosc;
 
-        public string Imie 
-        { 
-            get { return imie; }
-            set { imie = value; }
-        }
-
-        public string Nazwisko
-        {
-            get { return nazwisko; }
-            set { nazwisko = value; }
-        }
 
         public Autor()
         {
 
         }
 
-        public Autor(string imie, string nazwisko)
+        public Autor(string imie_, string nazwisko_, string narodowosc_):base(imie_, nazwisko_)
         {
-            Imie = imie;
-            Nazwisko = nazwisko;
+            narodowosc = narodowosc_;
         }
 
     }

@@ -6,40 +6,43 @@ using System.Threading.Tasks;
 
 namespace KsiazkiAutorzy
 {
-    internal class Katalog
+    internal class Katalog:IZarzadzaniePozycjami
     {
 
-        private string Dzialtematyczny;
-        private List<Pozycja> Pozycje = new List<Pozycja>();
+        private string dzialtematyczny;
+        private List<Pozycja> pozycje = new List<Pozycja>();
+
+        public string Dzialtematyczny { get => dzialtematyczny;}
+
         public Katalog()
         {
 
         }
 
-        public Katalog(string dzialTematyczny)
+        public Katalog(string dzialTematyczny_)
         {
-            Dzialtematyczny = dzialTematyczny;
+            dzialtematyczny = dzialTematyczny_;
         }
 
         public void DodajPozycje(Pozycja pozycja)
         {
-            Pozycje.Add(pozycja);
+            pozycje.Add(pozycja);
         }
 
         public void WypiszWszystkiePozycje()
         {
-            foreach(Pozycja pozycja in Pozycje)
+            foreach(Pozycja pozycja in pozycje)
             {
                 pozycja.WypiszInfo();
                 Console.WriteLine();
             }
         }
 
-        public Pozycja ZnajdzPozycje(string Tytul, string Wydawnictwo)
+        public Pozycja ZnajdzPozycjePoId(int id)
         {
-            foreach(Pozycja pozycja in Pozycje)
+            foreach (Pozycja pozycja in pozycje)
             {
-                if(pozycja.Tytul == Tytul || pozycja.Wydawnictwo == Wydawnictwo)
+                if (pozycja.Id == id)
                 {
                     return pozycja;
                 }
@@ -47,5 +50,16 @@ namespace KsiazkiAutorzy
             return null;
         }
 
+        public Pozycja ZnajdzPozycjePoTytule(string tytul)
+        {
+            foreach (Pozycja pozycja in pozycje)
+            {
+                if (pozycja.Tytul == tytul)
+                {
+                    return pozycja;
+                }
+            }
+            return null;
+        }
     }
 }

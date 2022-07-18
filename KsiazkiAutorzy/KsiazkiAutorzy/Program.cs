@@ -9,10 +9,10 @@ Ksiazka k3 = new Ksiazka("Warcraft", 3, "ISA", 2003, 300);
 Czasopismo cz1 = new Czasopismo("Cebador", 4, "Ogien", 1999, 25);
 Czasopismo cz2 = new Czasopismo("Cerber", 5, "Dog", 2010, 1);
 
-k1.DodajAutora(new Autor("J.K", "Rowling"));
-k2.DodajAutora(new Autor("Dmitrij", "Głuchowski"));
-k3.DodajAutora(new Autor("Richard", "Knaak"));
-k3.DodajAutora(new Autor("Christie", "Golden"));
+k1.DodajAutora(new Autor("J.K", "Rowling", "USA"));
+k2.DodajAutora(new Autor("Dmitrij", "Głuchowski", "Rosja"));
+k3.DodajAutora(new Autor("Richard", "Knaak", "Polska"));
+k3.DodajAutora(new Autor("Christie", "Golden", "USA"));
 
 katalog.DodajPozycje(k1);
 katalog.DodajPozycje(k2);
