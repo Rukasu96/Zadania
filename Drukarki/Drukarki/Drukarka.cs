@@ -24,6 +24,7 @@ namespace Drukarki
                 throw new TooSmallValue();
             }
 
+            IloscTuszu--;
             return "Drukarka zaczyna drukować.";
         }
 

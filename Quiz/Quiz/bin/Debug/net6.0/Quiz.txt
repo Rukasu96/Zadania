@@ -1,0 +1,3 @@
+Który z podanych języków nie jest zorientowany obiektowo?;Java;Python;C;JavaScript;2
+Jak nazywa się biblioteka wspomagająca programowanie funkcyjne w języku C#?;LINQ;BLIK;CLICK;EntityFramework;0
+Jaki język jest wykorzystywany do tworzenia aplikacji na platformę Android?;Kotlin;PHP;C;Asembler;0

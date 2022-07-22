@@ -81,5 +81,23 @@ namespace KsiazkiAutorzy
             }
             return null;
         }
+
+        public Pozycja ZnajdzPozycje(Predicate predicate)
+        {
+            foreach (Katalog katalog in katalogi)
+            {
+                return katalog.ZnajdzPozycje(predicate);
+            }
+            return null;
+        }
+
+        public Pozycja ZnajdzPozycje2(Func<Pozycja, bool> predicate)
+        {
+            foreach (Katalog katalog in katalogi)
+            {
+                return katalog.ZnajdzPozycje2(predicate);
+            }
+            return null;
+        }
     }
 }

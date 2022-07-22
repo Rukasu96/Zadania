@@ -11,12 +11,13 @@ namespace KsiazkiAutorzy
         private string tytul;
         private int id;
         private string wydawnictwo;
-        protected int RokWydania;
+        private int rokWydania;
 
         public string Tytul { get => tytul; set => tytul = value; }
         public string Wydawnictwo { get => wydawnictwo; set => wydawnictwo = value; }
 
-        public int Id { get => Id; set => id = value; }
+        public int Id { get => id; set => id = value; }
+        public int RokWydania { get => rokWydania; set => rokWydania = value; }
 
         public Pozycja()
         {

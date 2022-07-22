@@ -22,3 +22,15 @@ katalog.DodajPozycje(cz2);
 
 katalog.WypiszWszystkiePozycje();
 //katalog.ZnajdzPozycje("Harry", "Ignis");
+Console.WriteLine();
+
+bool ByISA(Pozycja p)
+{
+    return p.Wydawnictwo == "ISA";
+}
+
+Pozycja p = katalog.ZnajdzPozycje2(ByISA);
+p.WypiszInfo();
+
+Pozycja p2 = katalog.ZnajdzPozycje2(poz => poz.RokWydania == 2000);
+p2.WypiszInfo();

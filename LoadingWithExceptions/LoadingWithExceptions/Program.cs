@@ -1,9 +1,9 @@
 ﻿int suma = 0;
 int iloscLiczb = 0;
-float srednia = 0F;
 
 Console.WriteLine("Podaj liczby aby policzyć średnią");
 
+bool success = false;
 do
 {
     Console.Write("Twoja Liczba: ");
@@ -12,15 +12,15 @@ do
         int ocena = int.Parse(Console.ReadLine());
         suma += ocena;
         iloscLiczb++;
-        srednia = suma / iloscLiczb;
     }
     catch(FormatException ex)
     {
+        float srednia = suma / iloscLiczb;
         Console.WriteLine($"Twoja srednia: {srednia}");
-        break;
+        success = true;
     }
     
-} while (true);
+} while (!success);
 
 
 

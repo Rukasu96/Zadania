@@ -12,16 +12,15 @@ namespace Drukarki
 
         public Skaner(string model, string marka, int szybkoscSkanowania) : base(model, marka)
         {
+            if (SzybkoscSkanowania <= 0)
+            {
+                throw new TooSmallValue();
+            }
             SzybkoscSkanowania = szybkoscSkanowania;
         }
 
         public string Skanuj()
         {
-            if(SzybkoscSkanowania <= 0)
-            {
-                throw new TooSmallValue();
-            }
-
             return "Skaner rozpoczyna skanowanie";
         }
 

@@ -61,5 +61,29 @@ namespace KsiazkiAutorzy
             }
             return null;
         }
+
+        public Pozycja ZnajdzPozycje(Predicate predicate)
+        {
+            foreach (Pozycja pozycja in pozycje)
+            {
+                if (predicate(pozycja))
+                {
+                    return pozycja;
+                }
+            }
+            return null;
+        }
+
+        public Pozycja ZnajdzPozycje2(Func<Pozycja, bool> predicate)
+        {
+            foreach (Pozycja pozycja in pozycje)
+            {
+                if (predicate(pozycja))
+                {
+                    return pozycja;
+                }
+            }
+            return null;
+        }
     }
 }
