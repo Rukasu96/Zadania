@@ -1,0 +1,15 @@
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\Franki\Franki\bin\Debug\net6.0\Franki.exe
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\Franki\Franki\bin\Debug\net6.0\Franki.deps.json
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\Franki\Franki\bin\Debug\net6.0\Franki.runtimeconfig.json
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\Franki\Franki\bin\Debug\net6.0\Franki.dll
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\Franki\Franki\bin\Debug\net6.0\Franki.pdb
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\Franki\Franki\obj\Debug\net6.0\Franki.csproj.AssemblyReference.cache
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\Franki\Franki\obj\Debug\net6.0\Franki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\Franki\Franki\obj\Debug\net6.0\Franki.AssemblyInfoInputs.cache
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\Franki\Franki\obj\Debug\net6.0\Franki.AssemblyInfo.cs
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\Franki\Franki\obj\Debug\net6.0\Franki.csproj.CoreCompileInputs.cache
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\Franki\Franki\obj\Debug\net6.0\Franki.dll
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\Franki\Franki\obj\Debug\net6.0\refint\Franki.dll
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\Franki\Franki\obj\Debug\net6.0\Franki.pdb
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\Franki\Franki\obj\Debug\net6.0\Franki.genruntimeconfig.cache
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\Franki\Franki\obj\Debug\net6.0\ref\Franki.dll

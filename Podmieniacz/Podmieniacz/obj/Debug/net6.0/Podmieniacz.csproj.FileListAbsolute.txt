@@ -1,0 +1,15 @@
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\Podmieniacz\Podmieniacz\bin\Debug\net6.0\Podmieniacz.exe
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\Podmieniacz\Podmieniacz\bin\Debug\net6.0\Podmieniacz.deps.json
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\Podmieniacz\Podmieniacz\bin\Debug\net6.0\Podmieniacz.runtimeconfig.json
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\Podmieniacz\Podmieniacz\bin\Debug\net6.0\Podmieniacz.dll
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\Podmieniacz\Podmieniacz\bin\Debug\net6.0\Podmieniacz.pdb
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\Podmieniacz\Podmieniacz\obj\Debug\net6.0\Podmieniacz.csproj.AssemblyReference.cache
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\Podmieniacz\Podmieniacz\obj\Debug\net6.0\Podmieniacz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\Podmieniacz\Podmieniacz\obj\Debug\net6.0\Podmieniacz.AssemblyInfoInputs.cache
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\Podmieniacz\Podmieniacz\obj\Debug\net6.0\Podmieniacz.AssemblyInfo.cs
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\Podmieniacz\Podmieniacz\obj\Debug\net6.0\Podmieniacz.csproj.CoreCompileInputs.cache
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\Podmieniacz\Podmieniacz\obj\Debug\net6.0\Podmieniacz.dll
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\Podmieniacz\Podmieniacz\obj\Debug\net6.0\refint\Podmieniacz.dll
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\Podmieniacz\Podmieniacz\obj\Debug\net6.0\Podmieniacz.pdb
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\Podmieniacz\Podmieniacz\obj\Debug\net6.0\Podmieniacz.genruntimeconfig.cache
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\Podmieniacz\Podmieniacz\obj\Debug\net6.0\ref\Podmieniacz.dll
