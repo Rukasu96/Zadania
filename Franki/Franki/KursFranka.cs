@@ -18,8 +18,11 @@ namespace Franki
             }
             set
             {
-                przelicznik = value;
-                WyslijInfo();
+                if(przelicznik != value)
+                {
+                    przelicznik = value;
+                    WyslijInfo();
+                }
             }
         }
 

@@ -8,10 +8,13 @@ namespace ZadanieArrayExtension
 {
     internal class ArrayExtension
     {
-
-        static public void ForEach(int[] tab, Action<int[],int> action)
+        
+        static public void ForEach(int[] tab, int index, Action<int[],int> action)
         {
-
+            for(int i = 0; i < index; i++)
+            {
+                action(tab, i);
+            }
         }
 
     }

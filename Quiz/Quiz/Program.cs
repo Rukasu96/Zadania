@@ -10,13 +10,10 @@ foreach (var line in quiz)
 {
     var textLine = line.Split(';');
     string text = $"{textLine[0]} 0.{textLine[1]} 1.{textLine[2]} 2.{textLine[3]} 3.{textLine[4]}";
-    Question question = new Question(text);
+    Question question = new Question(textLine[0], textLine[1..5], int.Parse(textLine[5]));
     questionList.Add(question);
 }
 
-questionList[0].Answer = 2;
-questionList[1].Answer = 0;
-questionList[2].Answer = 0;
 
 do
 {
@@ -29,14 +26,15 @@ do
 
             id = rand.Next(0, questionList.Count - 1);
             Console.WriteLine(questionList[id].Text);
+            Console.WriteLine(questionList[id].Answers);
         }
 
         int answer = int.Parse(Console.ReadLine());
 
-        if (answer != questionList[id].Answer)
+        if (answer != questionList[id].CorrectAnswerIndex)
         {
             isCorrect = false;
-            Console.WriteLine($"Niepoprawna odpowiedź. Odpowiedź to {questionList[id].Answer}");
+            Console.WriteLine($"Niepoprawna odpowiedź. Odpowiedź to {questionList[id].CorrectAnswerIndex}");
         }
         else if (answer > 3)
         {

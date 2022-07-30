@@ -9,15 +9,18 @@ namespace Quiz
     internal class Question
     {
         private string text;
-        private int answer;
+        private string[] answers;
+        private int correctAnswerIndex;
 
         public string Text { get => text; set => text = value; }
-        public int Answer { get => answer; set => answer = value; }
+        public int CorrectAnswerIndex { get => correctAnswerIndex; set => correctAnswerIndex = value; }
+        public string Answers => string.Join(", ", answers);
 
-        public Question(string text)
+        public Question(string text, string[] answers, int correctAnswerIndex)
         {
             Text = text;
-            
+            this.answers = answers;
+            this.CorrectAnswerIndex = correctAnswerIndex;
         }
 
 
