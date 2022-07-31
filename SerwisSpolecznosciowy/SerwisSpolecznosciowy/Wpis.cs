@@ -12,5 +12,11 @@ namespace SerwisSpolecznosciowy
         protected DateTime data;
         protected string tekst;
         protected User user;
+
+        public Wpis(DateTime data, string tekst)
+        {
+            this.data = data;
+            this.tekst = tekst;
+        }
     }
 }

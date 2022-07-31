@@ -1,0 +1,15 @@
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\SerwisSpolecznosciowy\SerwisSpolecznosciowy\bin\Debug\net6.0\SerwisSpolecznosciowy.exe
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\SerwisSpolecznosciowy\SerwisSpolecznosciowy\bin\Debug\net6.0\SerwisSpolecznosciowy.deps.json
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\SerwisSpolecznosciowy\SerwisSpolecznosciowy\bin\Debug\net6.0\SerwisSpolecznosciowy.runtimeconfig.json
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\SerwisSpolecznosciowy\SerwisSpolecznosciowy\bin\Debug\net6.0\SerwisSpolecznosciowy.dll
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\SerwisSpolecznosciowy\SerwisSpolecznosciowy\bin\Debug\net6.0\SerwisSpolecznosciowy.pdb
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\SerwisSpolecznosciowy\SerwisSpolecznosciowy\obj\Debug\net6.0\SerwisSpolecznosciowy.csproj.AssemblyReference.cache
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\SerwisSpolecznosciowy\SerwisSpolecznosciowy\obj\Debug\net6.0\SerwisSpolecznosciowy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\SerwisSpolecznosciowy\SerwisSpolecznosciowy\obj\Debug\net6.0\SerwisSpolecznosciowy.AssemblyInfoInputs.cache
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\SerwisSpolecznosciowy\SerwisSpolecznosciowy\obj\Debug\net6.0\SerwisSpolecznosciowy.AssemblyInfo.cs
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\SerwisSpolecznosciowy\SerwisSpolecznosciowy\obj\Debug\net6.0\SerwisSpolecznosciowy.csproj.CoreCompileInputs.cache
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\SerwisSpolecznosciowy\SerwisSpolecznosciowy\obj\Debug\net6.0\SerwisSpolecznosciowy.dll
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\SerwisSpolecznosciowy\SerwisSpolecznosciowy\obj\Debug\net6.0\refint\SerwisSpolecznosciowy.dll
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\SerwisSpolecznosciowy\SerwisSpolecznosciowy\obj\Debug\net6.0\SerwisSpolecznosciowy.pdb
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\SerwisSpolecznosciowy\SerwisSpolecznosciowy\obj\Debug\net6.0\SerwisSpolecznosciowy.genruntimeconfig.cache
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\SerwisSpolecznosciowy\SerwisSpolecznosciowy\obj\Debug\net6.0\ref\SerwisSpolecznosciowy.dll
