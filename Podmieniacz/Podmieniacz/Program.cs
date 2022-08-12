@@ -6,7 +6,6 @@
     {
         string podmienionyNapis = "";
 
-        List<char> c = new List<char>();
         foreach (char letter in tekst)
         {
             podmienionyNapis += operacja(letter);

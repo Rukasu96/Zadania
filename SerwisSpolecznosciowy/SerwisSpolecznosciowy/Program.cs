@@ -24,3 +24,34 @@ repository.AddComment(comm2);
 repository.FindFirstPost(x => x.Id == comm1.Id);
 
 repository.wyswietl();
+
+Console.WriteLine();
+Random rand = new Random();
+int[] numbers = new int[42];
+for(int i = 0; i < numbers.Length; i++)
+{
+    numbers[i] = i + 1;
+}
+
+for(int i = 0; i < 1000; i++)
+{
+    int index1 = rand.Next(numbers.Length);
+    int index2 = rand.Next(numbers.Length);
+    (numbers[index1], numbers[index2]) = (numbers[index2], numbers[index1]);
+}
+
+int[] result = numbers[..6];
+for(int i = 0; i < result.Length; i++)
+{
+    Console.WriteLine(result[i]);
+}
+
+////zamiana wartsciami
+//int a = 5;
+//int b = 6;
+
+//int t = a;
+//a = b;
+//b = t;
+////zamiana wartsciami v2
+//(a, b) = (b, a);

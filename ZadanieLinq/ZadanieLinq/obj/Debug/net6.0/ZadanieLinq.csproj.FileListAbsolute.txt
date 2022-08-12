@@ -1,0 +1,15 @@
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\ZadanieLinq\ZadanieLinq\bin\Debug\net6.0\ZadanieLinq.exe
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\ZadanieLinq\ZadanieLinq\bin\Debug\net6.0\ZadanieLinq.deps.json
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\ZadanieLinq\ZadanieLinq\bin\Debug\net6.0\ZadanieLinq.runtimeconfig.json
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\ZadanieLinq\ZadanieLinq\bin\Debug\net6.0\ZadanieLinq.dll
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\ZadanieLinq\ZadanieLinq\bin\Debug\net6.0\ZadanieLinq.pdb
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\ZadanieLinq\ZadanieLinq\obj\Debug\net6.0\ZadanieLinq.csproj.AssemblyReference.cache
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\ZadanieLinq\ZadanieLinq\obj\Debug\net6.0\ZadanieLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\ZadanieLinq\ZadanieLinq\obj\Debug\net6.0\ZadanieLinq.AssemblyInfoInputs.cache
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\ZadanieLinq\ZadanieLinq\obj\Debug\net6.0\ZadanieLinq.AssemblyInfo.cs
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\ZadanieLinq\ZadanieLinq\obj\Debug\net6.0\ZadanieLinq.csproj.CoreCompileInputs.cache
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\ZadanieLinq\ZadanieLinq\obj\Debug\net6.0\ZadanieLinq.dll
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\ZadanieLinq\ZadanieLinq\obj\Debug\net6.0\refint\ZadanieLinq.dll
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\ZadanieLinq\ZadanieLinq\obj\Debug\net6.0\ZadanieLinq.pdb
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\ZadanieLinq\ZadanieLinq\obj\Debug\net6.0\ZadanieLinq.genruntimeconfig.cache
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\ZadanieLinq\ZadanieLinq\obj\Debug\net6.0\ref\ZadanieLinq.dll

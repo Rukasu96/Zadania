@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Schema;
 
 namespace SerwisSpolecznosciowy
 {
@@ -32,17 +33,18 @@ namespace SerwisSpolecznosciowy
                     return;
                 }
             }
-
+            users.Where(x => x.Email != user.Email).ToList().Add(user);
             user.Id = DrawID();
 
-            users.Add(user);
-            
         }
 
         public void AddPost(Post post)
         {
             foreach(User user in users)
             {
+
+                posts.Where(x => x.User.Id == user.Id).ToList().Add(post);
+
                 if(post.User.Id == user.Id)
                 {
                     post.Id = DrawID();
@@ -52,6 +54,7 @@ namespace SerwisSpolecznosciowy
                 }
             }
 
+           
         }
 
         public void AddComment(Comment comment)
@@ -73,6 +76,7 @@ namespace SerwisSpolecznosciowy
                     break;
                 }
             }
+
         }
 
         
@@ -81,27 +85,25 @@ namespace SerwisSpolecznosciowy
         {
             Random rand = new Random();
             int ID = rand.Next(0, 999);
-
-            foreach(int usedID in usedID)
+            while(usedID.Contains(ID))
             {
-                if(ID == usedID)
-                {
-                    DrawID();
-                }
+                ID = rand.Next(0, 999);
             }
             usedID.Add(ID);
 
             return ID;
         }
 
-        public void FindFirstPost(Predicate<Post> predicate)
+        public Post FindFirstPost(Predicate<Post> predicate)
         {
             foreach(Post post in posts)
             {
-                predicate(post);
-                Console.Write($"{post}\n");
-                return;
+                if(predicate(post))
+                {
+                    return post;
+                }
             }
+            return null;
         }
 
         public void wyswietl()

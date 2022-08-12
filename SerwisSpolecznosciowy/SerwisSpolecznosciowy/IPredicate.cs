@@ -8,7 +8,6 @@ namespace SerwisSpolecznosciowy
 {
     internal interface IPredicate
     {
-
-        public void FindFirstPost(Predicate<Post> predicate); 
+        public Post FindFirstPost(Predicate<Post> predicate); 
     }
 }
