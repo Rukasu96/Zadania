@@ -1,0 +1,15 @@
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\MapowanieLiczb\MapowanieLiczb\bin\Debug\net6.0\MapowanieLiczb.exe
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\MapowanieLiczb\MapowanieLiczb\bin\Debug\net6.0\MapowanieLiczb.deps.json
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\MapowanieLiczb\MapowanieLiczb\bin\Debug\net6.0\MapowanieLiczb.runtimeconfig.json
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\MapowanieLiczb\MapowanieLiczb\bin\Debug\net6.0\MapowanieLiczb.dll
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\MapowanieLiczb\MapowanieLiczb\bin\Debug\net6.0\MapowanieLiczb.pdb
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\MapowanieLiczb\MapowanieLiczb\obj\Debug\net6.0\MapowanieLiczb.csproj.AssemblyReference.cache
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\MapowanieLiczb\MapowanieLiczb\obj\Debug\net6.0\MapowanieLiczb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\MapowanieLiczb\MapowanieLiczb\obj\Debug\net6.0\MapowanieLiczb.AssemblyInfoInputs.cache
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\MapowanieLiczb\MapowanieLiczb\obj\Debug\net6.0\MapowanieLiczb.AssemblyInfo.cs
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\MapowanieLiczb\MapowanieLiczb\obj\Debug\net6.0\MapowanieLiczb.csproj.CoreCompileInputs.cache
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\MapowanieLiczb\MapowanieLiczb\obj\Debug\net6.0\MapowanieLiczb.dll
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\MapowanieLiczb\MapowanieLiczb\obj\Debug\net6.0\refint\MapowanieLiczb.dll
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\MapowanieLiczb\MapowanieLiczb\obj\Debug\net6.0\MapowanieLiczb.pdb
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\MapowanieLiczb\MapowanieLiczb\obj\Debug\net6.0\MapowanieLiczb.genruntimeconfig.cache
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\MapowanieLiczb\MapowanieLiczb\obj\Debug\net6.0\ref\MapowanieLiczb.dll
