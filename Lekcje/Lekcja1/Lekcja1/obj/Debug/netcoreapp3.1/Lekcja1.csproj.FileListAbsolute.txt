@@ -1,0 +1,14 @@
+C:\Users\Kuksz\Desktop\Lekcje\Lekcja1\Lekcja1\bin\Debug\netcoreapp3.1\Lekcja1.exe
+C:\Users\Kuksz\Desktop\Lekcje\Lekcja1\Lekcja1\bin\Debug\netcoreapp3.1\Lekcja1.deps.json
+C:\Users\Kuksz\Desktop\Lekcje\Lekcja1\Lekcja1\bin\Debug\netcoreapp3.1\Lekcja1.runtimeconfig.json
+C:\Users\Kuksz\Desktop\Lekcje\Lekcja1\Lekcja1\bin\Debug\netcoreapp3.1\Lekcja1.runtimeconfig.dev.json
+C:\Users\Kuksz\Desktop\Lekcje\Lekcja1\Lekcja1\bin\Debug\netcoreapp3.1\Lekcja1.dll
+C:\Users\Kuksz\Desktop\Lekcje\Lekcja1\Lekcja1\bin\Debug\netcoreapp3.1\Lekcja1.pdb
+C:\Users\Kuksz\Desktop\Lekcje\Lekcja1\Lekcja1\obj\Debug\netcoreapp3.1\Lekcja1.AssemblyInfoInputs.cache
+C:\Users\Kuksz\Desktop\Lekcje\Lekcja1\Lekcja1\obj\Debug\netcoreapp3.1\Lekcja1.AssemblyInfo.cs
+C:\Users\Kuksz\Desktop\Lekcje\Lekcja1\Lekcja1\obj\Debug\netcoreapp3.1\Lekcja1.csproj.CoreCompileInputs.cache
+C:\Users\Kuksz\Desktop\Lekcje\Lekcja1\Lekcja1\obj\Debug\netcoreapp3.1\Lekcja1.dll
+C:\Users\Kuksz\Desktop\Lekcje\Lekcja1\Lekcja1\obj\Debug\netcoreapp3.1\Lekcja1.pdb
+C:\Users\Kuksz\Desktop\Lekcje\Lekcja1\Lekcja1\obj\Debug\netcoreapp3.1\Lekcja1.genruntimeconfig.cache
+C:\Users\Kuksz\Desktop\Lekcje\Lekcja1\Lekcja1\obj\Debug\netcoreapp3.1\Lekcja1.csproj.AssemblyReference.cache
+C:\Users\Kuksz\Desktop\Lekcje\Lekcja1\Lekcja1\obj\Debug\netcoreapp3.1\Lekcja1.GeneratedMSBuildEditorConfig.editorconfig

@@ -1,0 +1,15 @@
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\PogodaWPolsce\PogodaWPolsce\bin\Debug\net6.0\PogodaWPolsce.exe
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\PogodaWPolsce\PogodaWPolsce\bin\Debug\net6.0\PogodaWPolsce.deps.json
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\PogodaWPolsce\PogodaWPolsce\bin\Debug\net6.0\PogodaWPolsce.runtimeconfig.json
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\PogodaWPolsce\PogodaWPolsce\bin\Debug\net6.0\PogodaWPolsce.dll
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\PogodaWPolsce\PogodaWPolsce\bin\Debug\net6.0\PogodaWPolsce.pdb
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\PogodaWPolsce\PogodaWPolsce\obj\Debug\net6.0\PogodaWPolsce.csproj.AssemblyReference.cache
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\PogodaWPolsce\PogodaWPolsce\obj\Debug\net6.0\PogodaWPolsce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\PogodaWPolsce\PogodaWPolsce\obj\Debug\net6.0\PogodaWPolsce.AssemblyInfoInputs.cache
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\PogodaWPolsce\PogodaWPolsce\obj\Debug\net6.0\PogodaWPolsce.AssemblyInfo.cs
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\PogodaWPolsce\PogodaWPolsce\obj\Debug\net6.0\PogodaWPolsce.csproj.CoreCompileInputs.cache
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\PogodaWPolsce\PogodaWPolsce\obj\Debug\net6.0\PogodaWPolsce.dll
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\PogodaWPolsce\PogodaWPolsce\obj\Debug\net6.0\refint\PogodaWPolsce.dll
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\PogodaWPolsce\PogodaWPolsce\obj\Debug\net6.0\PogodaWPolsce.pdb
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\PogodaWPolsce\PogodaWPolsce\obj\Debug\net6.0\PogodaWPolsce.genruntimeconfig.cache
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\PogodaWPolsce\PogodaWPolsce\obj\Debug\net6.0\ref\PogodaWPolsce.dll

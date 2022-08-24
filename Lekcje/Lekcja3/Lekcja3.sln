@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lekcja3", "Lekcja3\Lekcja3.csproj", "{37235B79-04EE-4B4C-85F9-9188386962FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonPattern", "SingletonPattern\SingletonPattern.csproj", "{0D0805C9-3648-46AB-951D-0FA1A403B1CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37235B79-04EE-4B4C-85F9-9188386962FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37235B79-04EE-4B4C-85F9-9188386962FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37235B79-04EE-4B4C-85F9-9188386962FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37235B79-04EE-4B4C-85F9-9188386962FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D0805C9-3648-46AB-951D-0FA1A403B1CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D0805C9-3648-46AB-951D-0FA1A403B1CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D0805C9-3648-46AB-951D-0FA1A403B1CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D0805C9-3648-46AB-951D-0FA1A403B1CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0FC69FC-0979-4C2E-BA8C-1C51F0ED7F2C}
+	EndGlobalSection
+EndGlobal

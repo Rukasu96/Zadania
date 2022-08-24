@@ -1,0 +1,15 @@
+C:\Users\Kuksz\Desktop\Lekcje\lekcja6\lekcja_6_4\bin\Debug\net6.0\lekcja6_4.exe
+C:\Users\Kuksz\Desktop\Lekcje\lekcja6\lekcja_6_4\bin\Debug\net6.0\lekcja6_4.deps.json
+C:\Users\Kuksz\Desktop\Lekcje\lekcja6\lekcja_6_4\bin\Debug\net6.0\lekcja6_4.runtimeconfig.json
+C:\Users\Kuksz\Desktop\Lekcje\lekcja6\lekcja_6_4\bin\Debug\net6.0\lekcja6_4.dll
+C:\Users\Kuksz\Desktop\Lekcje\lekcja6\lekcja_6_4\bin\Debug\net6.0\lekcja6_4.pdb
+C:\Users\Kuksz\Desktop\Lekcje\lekcja6\lekcja_6_4\obj\Debug\net6.0\lekcja6_4.csproj.AssemblyReference.cache
+C:\Users\Kuksz\Desktop\Lekcje\lekcja6\lekcja_6_4\obj\Debug\net6.0\lekcja6_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuksz\Desktop\Lekcje\lekcja6\lekcja_6_4\obj\Debug\net6.0\lekcja6_4.AssemblyInfoInputs.cache
+C:\Users\Kuksz\Desktop\Lekcje\lekcja6\lekcja_6_4\obj\Debug\net6.0\lekcja6_4.AssemblyInfo.cs
+C:\Users\Kuksz\Desktop\Lekcje\lekcja6\lekcja_6_4\obj\Debug\net6.0\lekcja6_4.csproj.CoreCompileInputs.cache
+C:\Users\Kuksz\Desktop\Lekcje\lekcja6\lekcja_6_4\obj\Debug\net6.0\lekcja6_4.dll
+C:\Users\Kuksz\Desktop\Lekcje\lekcja6\lekcja_6_4\obj\Debug\net6.0\refint\lekcja6_4.dll
+C:\Users\Kuksz\Desktop\Lekcje\lekcja6\lekcja_6_4\obj\Debug\net6.0\lekcja6_4.pdb
+C:\Users\Kuksz\Desktop\Lekcje\lekcja6\lekcja_6_4\obj\Debug\net6.0\lekcja6_4.genruntimeconfig.cache
+C:\Users\Kuksz\Desktop\Lekcje\lekcja6\lekcja_6_4\obj\Debug\net6.0\ref\lekcja6_4.dll

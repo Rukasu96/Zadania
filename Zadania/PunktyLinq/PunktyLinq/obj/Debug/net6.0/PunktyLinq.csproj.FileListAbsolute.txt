@@ -1,0 +1,15 @@
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\PunktyLinq\PunktyLinq\bin\Debug\net6.0\PunktyLinq.exe
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\PunktyLinq\PunktyLinq\bin\Debug\net6.0\PunktyLinq.deps.json
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\PunktyLinq\PunktyLinq\bin\Debug\net6.0\PunktyLinq.runtimeconfig.json
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\PunktyLinq\PunktyLinq\bin\Debug\net6.0\PunktyLinq.dll
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\PunktyLinq\PunktyLinq\bin\Debug\net6.0\PunktyLinq.pdb
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\PunktyLinq\PunktyLinq\obj\Debug\net6.0\PunktyLinq.csproj.AssemblyReference.cache
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\PunktyLinq\PunktyLinq\obj\Debug\net6.0\PunktyLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\PunktyLinq\PunktyLinq\obj\Debug\net6.0\PunktyLinq.AssemblyInfoInputs.cache
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\PunktyLinq\PunktyLinq\obj\Debug\net6.0\PunktyLinq.AssemblyInfo.cs
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\PunktyLinq\PunktyLinq\obj\Debug\net6.0\PunktyLinq.csproj.CoreCompileInputs.cache
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\PunktyLinq\PunktyLinq\obj\Debug\net6.0\PunktyLinq.dll
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\PunktyLinq\PunktyLinq\obj\Debug\net6.0\refint\PunktyLinq.dll
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\PunktyLinq\PunktyLinq\obj\Debug\net6.0\PunktyLinq.pdb
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\PunktyLinq\PunktyLinq\obj\Debug\net6.0\PunktyLinq.genruntimeconfig.cache
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\PunktyLinq\PunktyLinq\obj\Debug\net6.0\ref\PunktyLinq.dll
