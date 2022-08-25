@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kuksz\\Desktop\\Lekcje\\Zadania\\PunktyLinq\\PunktyLinq\\PunktyLinq.csproj",
+      "projectUniqueName": "C:\\Users\\Kuksz\\Desktop\\MentoringC#\\Zadania\\Zadania\\PunktyLinq\\PunktyLinq\\PunktyLinq.csproj",
       "projectName": "PunktyLinq",
-      "projectPath": "C:\\Users\\Kuksz\\Desktop\\Lekcje\\Zadania\\PunktyLinq\\PunktyLinq\\PunktyLinq.csproj",
+      "projectPath": "C:\\Users\\Kuksz\\Desktop\\MentoringC#\\Zadania\\Zadania\\PunktyLinq\\PunktyLinq\\PunktyLinq.csproj",
       "packagesPath": "C:\\Users\\Kuksz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kuksz\\Desktop\\Lekcje\\Zadania\\PunktyLinq\\PunktyLinq\\obj\\",
+      "outputPath": "C:\\Users\\Kuksz\\Desktop\\MentoringC#\\Zadania\\Zadania\\PunktyLinq\\PunktyLinq\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
