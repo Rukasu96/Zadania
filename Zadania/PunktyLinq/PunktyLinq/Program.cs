@@ -18,7 +18,7 @@ var fourthPart = punkty.Count(x => x.PosX > 0 && x.PosY < 0);
 Console.WriteLine($"{firstPart}, {secondPart}, {thirdPart}, {fourthPart}");
 
 //Które punkty mają wartość dwucyfrową x i y;
-var doubleDigitPoints = punkty.Where(x => x.PosX > 9 && x.PosY > 9).ToList();
+var doubleDigitPoints = punkty.Where(x => x.PosX.ToString().Length == 2 && x.PosY.ToString().Length == 2).ToList();
 doubleDigitPoints.ForEach(x => Console.WriteLine(x.PosX + " " + x.PosY));
 
 //Czy istnieje jakiś punkt o współrzędnej x == -20 && posY < 0

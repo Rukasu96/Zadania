@@ -1,0 +1,15 @@
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\PacjenciLinq\PacjenciLinq\bin\Debug\net6.0\PacjenciLinq.exe
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\PacjenciLinq\PacjenciLinq\bin\Debug\net6.0\PacjenciLinq.deps.json
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\PacjenciLinq\PacjenciLinq\bin\Debug\net6.0\PacjenciLinq.runtimeconfig.json
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\PacjenciLinq\PacjenciLinq\bin\Debug\net6.0\PacjenciLinq.dll
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\PacjenciLinq\PacjenciLinq\bin\Debug\net6.0\PacjenciLinq.pdb
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\PacjenciLinq\PacjenciLinq\obj\Debug\net6.0\PacjenciLinq.csproj.AssemblyReference.cache
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\PacjenciLinq\PacjenciLinq\obj\Debug\net6.0\PacjenciLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\PacjenciLinq\PacjenciLinq\obj\Debug\net6.0\PacjenciLinq.AssemblyInfoInputs.cache
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\PacjenciLinq\PacjenciLinq\obj\Debug\net6.0\PacjenciLinq.AssemblyInfo.cs
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\PacjenciLinq\PacjenciLinq\obj\Debug\net6.0\PacjenciLinq.csproj.CoreCompileInputs.cache
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\PacjenciLinq\PacjenciLinq\obj\Debug\net6.0\PacjenciLinq.dll
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\PacjenciLinq\PacjenciLinq\obj\Debug\net6.0\refint\PacjenciLinq.dll
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\PacjenciLinq\PacjenciLinq\obj\Debug\net6.0\PacjenciLinq.pdb
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\PacjenciLinq\PacjenciLinq\obj\Debug\net6.0\PacjenciLinq.genruntimeconfig.cache
+C:\Users\Kuksz\Desktop\Lekcje\Zadania\PacjenciLinq\PacjenciLinq\obj\Debug\net6.0\ref\PacjenciLinq.dll

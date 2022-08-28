@@ -122,16 +122,16 @@ namespace SerwisSpolecznosciowy
 
         public Post FindFirstPost(Predicate<Post> predicate)
         {
-            var post = posts.FirstOrDefault(x => predicate(x));
+            return posts.FirstOrDefault(x => predicate(x));
 
-            if(post != null)
-            {
-                return post;
-            }
-            else
-            {
-                return null;
-            }
+            //if(post != null)
+            //{
+            //    return post;
+            //}
+            //else
+            //{
+            //    return null;
+            //}
 
             /*
             foreach(Post post in posts)

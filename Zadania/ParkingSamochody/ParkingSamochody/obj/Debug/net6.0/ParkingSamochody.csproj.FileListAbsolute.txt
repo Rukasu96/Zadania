@@ -1,0 +1,15 @@
+C:\Users\Kuksz\Desktop\MentoringC#\Zadania\Zadania\ParkingSamochody\ParkingSamochody\bin\Debug\net6.0\ParkingSamochody.exe
+C:\Users\Kuksz\Desktop\MentoringC#\Zadania\Zadania\ParkingSamochody\ParkingSamochody\bin\Debug\net6.0\ParkingSamochody.deps.json
+C:\Users\Kuksz\Desktop\MentoringC#\Zadania\Zadania\ParkingSamochody\ParkingSamochody\bin\Debug\net6.0\ParkingSamochody.runtimeconfig.json
+C:\Users\Kuksz\Desktop\MentoringC#\Zadania\Zadania\ParkingSamochody\ParkingSamochody\bin\Debug\net6.0\ParkingSamochody.dll
+C:\Users\Kuksz\Desktop\MentoringC#\Zadania\Zadania\ParkingSamochody\ParkingSamochody\bin\Debug\net6.0\ParkingSamochody.pdb
+C:\Users\Kuksz\Desktop\MentoringC#\Zadania\Zadania\ParkingSamochody\ParkingSamochody\obj\Debug\net6.0\ParkingSamochody.csproj.AssemblyReference.cache
+C:\Users\Kuksz\Desktop\MentoringC#\Zadania\Zadania\ParkingSamochody\ParkingSamochody\obj\Debug\net6.0\ParkingSamochody.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuksz\Desktop\MentoringC#\Zadania\Zadania\ParkingSamochody\ParkingSamochody\obj\Debug\net6.0\ParkingSamochody.AssemblyInfoInputs.cache
+C:\Users\Kuksz\Desktop\MentoringC#\Zadania\Zadania\ParkingSamochody\ParkingSamochody\obj\Debug\net6.0\ParkingSamochody.AssemblyInfo.cs
+C:\Users\Kuksz\Desktop\MentoringC#\Zadania\Zadania\ParkingSamochody\ParkingSamochody\obj\Debug\net6.0\ParkingSamochody.csproj.CoreCompileInputs.cache
+C:\Users\Kuksz\Desktop\MentoringC#\Zadania\Zadania\ParkingSamochody\ParkingSamochody\obj\Debug\net6.0\ParkingSamochody.dll
+C:\Users\Kuksz\Desktop\MentoringC#\Zadania\Zadania\ParkingSamochody\ParkingSamochody\obj\Debug\net6.0\refint\ParkingSamochody.dll
+C:\Users\Kuksz\Desktop\MentoringC#\Zadania\Zadania\ParkingSamochody\ParkingSamochody\obj\Debug\net6.0\ParkingSamochody.pdb
+C:\Users\Kuksz\Desktop\MentoringC#\Zadania\Zadania\ParkingSamochody\ParkingSamochody\obj\Debug\net6.0\ParkingSamochody.genruntimeconfig.cache
+C:\Users\Kuksz\Desktop\MentoringC#\Zadania\Zadania\ParkingSamochody\ParkingSamochody\obj\Debug\net6.0\ref\ParkingSamochody.dll

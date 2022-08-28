@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kuksz\\Desktop\\Lekcje\\Zadania\\ParkingSamochody\\ParkingSamochody\\ParkingSamochody.csproj",
+      "projectUniqueName": "C:\\Users\\Kuksz\\Desktop\\MentoringC#\\Zadania\\Zadania\\ParkingSamochody\\ParkingSamochody\\ParkingSamochody.csproj",
       "projectName": "ParkingSamochody",
-      "projectPath": "C:\\Users\\Kuksz\\Desktop\\Lekcje\\Zadania\\ParkingSamochody\\ParkingSamochody\\ParkingSamochody.csproj",
+      "projectPath": "C:\\Users\\Kuksz\\Desktop\\MentoringC#\\Zadania\\Zadania\\ParkingSamochody\\ParkingSamochody\\ParkingSamochody.csproj",
       "packagesPath": "C:\\Users\\Kuksz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kuksz\\Desktop\\Lekcje\\Zadania\\ParkingSamochody\\ParkingSamochody\\obj\\",
+      "outputPath": "C:\\Users\\Kuksz\\Desktop\\MentoringC#\\Zadania\\Zadania\\ParkingSamochody\\ParkingSamochody\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

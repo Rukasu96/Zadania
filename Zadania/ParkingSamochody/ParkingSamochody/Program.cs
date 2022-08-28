@@ -11,7 +11,6 @@ Car car6 = new Car("Nissan", "Juke", "KR505");
 Car car7 = new Car("Ford", "Fiesta", "PO97F");
 Car car8 = new Car("Suzuki", "Swift", "WPR12L");
 
-void AddCar(Car car, char c)
-{
-   
-}
+parking.AddCar(car2, 'B');
+
+Console.WriteLine(parking);

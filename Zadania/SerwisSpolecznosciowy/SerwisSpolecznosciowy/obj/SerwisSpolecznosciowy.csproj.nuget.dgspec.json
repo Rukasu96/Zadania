@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kuksz\\Desktop\\Lekcje\\Zadania\\SerwisSpolecznosciowy\\SerwisSpolecznosciowy\\SerwisSpolecznosciowy.csproj": {}
+    "C:\\Users\\Kuksz\\Desktop\\MentoringC#\\Zadania\\Zadania\\SerwisSpolecznosciowy\\SerwisSpolecznosciowy\\SerwisSpolecznosciowy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kuksz\\Desktop\\Lekcje\\Zadania\\SerwisSpolecznosciowy\\SerwisSpolecznosciowy\\SerwisSpolecznosciowy.csproj": {
+    "C:\\Users\\Kuksz\\Desktop\\MentoringC#\\Zadania\\Zadania\\SerwisSpolecznosciowy\\SerwisSpolecznosciowy\\SerwisSpolecznosciowy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kuksz\\Desktop\\Lekcje\\Zadania\\SerwisSpolecznosciowy\\SerwisSpolecznosciowy\\SerwisSpolecznosciowy.csproj",
+        "projectUniqueName": "C:\\Users\\Kuksz\\Desktop\\MentoringC#\\Zadania\\Zadania\\SerwisSpolecznosciowy\\SerwisSpolecznosciowy\\SerwisSpolecznosciowy.csproj",
         "projectName": "SerwisSpolecznosciowy",
-        "projectPath": "C:\\Users\\Kuksz\\Desktop\\Lekcje\\Zadania\\SerwisSpolecznosciowy\\SerwisSpolecznosciowy\\SerwisSpolecznosciowy.csproj",
+        "projectPath": "C:\\Users\\Kuksz\\Desktop\\MentoringC#\\Zadania\\Zadania\\SerwisSpolecznosciowy\\SerwisSpolecznosciowy\\SerwisSpolecznosciowy.csproj",
         "packagesPath": "C:\\Users\\Kuksz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kuksz\\Desktop\\Lekcje\\Zadania\\SerwisSpolecznosciowy\\SerwisSpolecznosciowy\\obj\\",
+        "outputPath": "C:\\Users\\Kuksz\\Desktop\\MentoringC#\\Zadania\\Zadania\\SerwisSpolecznosciowy\\SerwisSpolecznosciowy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
