@@ -13,4 +13,12 @@ Car car8 = new Car("Suzuki", "Swift", "WPR12L");
 
 parking.AddCar(car2, 'B');
 
+parking.UseFirstEmptySlot(car1);
+parking.UseFirstEmptySlot(car2);
+parking.UseFirstEmptySlot(car3);
+parking.UseFirstEmptySlot(car4);
+parking.UseFirstEmptySlot(car5);
+
+
+
 Console.WriteLine(parking);

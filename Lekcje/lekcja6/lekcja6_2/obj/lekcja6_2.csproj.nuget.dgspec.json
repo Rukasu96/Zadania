@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kuksz\\Desktop\\Lekcje\\lekcja6\\lekcja6_2\\lekcja6_2.csproj": {}
+    "C:\\Users\\Kuksz\\Desktop\\MentoringC#\\Zadania\\Lekcje\\lekcja6\\lekcja6_2\\lekcja6_2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kuksz\\Desktop\\Lekcje\\lekcja6\\lekcja6_2\\lekcja6_2.csproj": {
+    "C:\\Users\\Kuksz\\Desktop\\MentoringC#\\Zadania\\Lekcje\\lekcja6\\lekcja6_2\\lekcja6_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kuksz\\Desktop\\Lekcje\\lekcja6\\lekcja6_2\\lekcja6_2.csproj",
+        "projectUniqueName": "C:\\Users\\Kuksz\\Desktop\\MentoringC#\\Zadania\\Lekcje\\lekcja6\\lekcja6_2\\lekcja6_2.csproj",
         "projectName": "lekcja6_2",
-        "projectPath": "C:\\Users\\Kuksz\\Desktop\\Lekcje\\lekcja6\\lekcja6_2\\lekcja6_2.csproj",
+        "projectPath": "C:\\Users\\Kuksz\\Desktop\\MentoringC#\\Zadania\\Lekcje\\lekcja6\\lekcja6_2\\lekcja6_2.csproj",
         "packagesPath": "C:\\Users\\Kuksz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kuksz\\Desktop\\Lekcje\\lekcja6\\lekcja6_2\\obj\\",
+        "outputPath": "C:\\Users\\Kuksz\\Desktop\\MentoringC#\\Zadania\\Lekcje\\lekcja6\\lekcja6_2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

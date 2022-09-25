@@ -48,15 +48,14 @@ namespace ParkingSamochody
 
         public void UseFirstEmptySlot(Car car)
         {
-            var firstEmptySlot = ParkingSlots.First(x => x.Value == null);
-            if(firstEmptySlot.Value == null)
-            {
-                ParkingSlots[firstEmptySlot.Key] = car;
-            }
-            else
+            if(!ParkingSlots.ContainsValue(null))
             {
                 throw new Exception("No empty slot");
             }
+
+
+            var firstEmptySlot = ParkingSlots.FirstOrDefault(x => x.Value == null);
+            ParkingSlots[firstEmptySlot.Key] = car;
         }
 
 
@@ -64,7 +63,7 @@ namespace ParkingSamochody
         {
             StringBuilder sb = new StringBuilder();
             var parkingss = ParkingSlots.Select(x => x).ToList();
-            Console.WriteLine("Stan parkingu: ");
+            sb.AppendLine("Stan parkingu: ");
             parkingss.ForEach(x => sb.AppendLine($"{x.Key} {x.Value}"));
             return sb.ToString();
         }

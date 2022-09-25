@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kuksz\\Desktop\\Lekcje\\Zadania\\ZadanieLinq\\ZadanieLinq\\ZadanieLinq.csproj",
+      "projectUniqueName": "C:\\Users\\Kuksz\\Desktop\\MentoringC#\\Zadania\\Zadania\\ZadanieLinq\\ZadanieLinq\\ZadanieLinq.csproj",
       "projectName": "ZadanieLinq",
-      "projectPath": "C:\\Users\\Kuksz\\Desktop\\Lekcje\\Zadania\\ZadanieLinq\\ZadanieLinq\\ZadanieLinq.csproj",
+      "projectPath": "C:\\Users\\Kuksz\\Desktop\\MentoringC#\\Zadania\\Zadania\\ZadanieLinq\\ZadanieLinq\\ZadanieLinq.csproj",
       "packagesPath": "C:\\Users\\Kuksz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kuksz\\Desktop\\Lekcje\\Zadania\\ZadanieLinq\\ZadanieLinq\\obj\\",
+      "outputPath": "C:\\Users\\Kuksz\\Desktop\\MentoringC#\\Zadania\\Zadania\\ZadanieLinq\\ZadanieLinq\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

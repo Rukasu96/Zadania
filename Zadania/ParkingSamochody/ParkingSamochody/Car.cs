@@ -19,6 +19,9 @@ namespace ParkingSamochody
             this.registration = registration;
         }
 
-
+        public override string ToString()
+        {
+            return $"{mark} {model}";
+        }
     }
 }

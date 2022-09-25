@@ -20,6 +20,7 @@ foreach(var number in s)
 }
 
 var e = s.GetEnumerator();
+
 while(e.MoveNext())
 {
     Console.WriteLine(e.Current);
