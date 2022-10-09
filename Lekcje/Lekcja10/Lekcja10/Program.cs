@@ -12,7 +12,7 @@ Pudelko p3 = p + p2;
 Console.WriteLine(p3);
 
 Pudelko p4 = new Pudelko();
-if(p4 == p2)
+if (p4 == p2)
 {
     Console.WriteLine("Takie same?");
 }
@@ -40,22 +40,51 @@ Comparison<Pudelko> volumeComparer = new Comparison<Pudelko>(CompareBoxes);
 
 static int CompareBoxes(Pudelko p1, Pudelko p2)
 {
-    if(p1.V != p2.V)
+    if (p1.V != p2.V)
     {
         return p2.V.CompareTo(p1.V);
-    }else if(p1.V == p2.V)
-    {
-        return p2.area.CompareTo(p1.area);
-    }else if(p1.V == p2.V && p1.area == p2.area)
+    }
+    else if (p1.V == p2.V && p1.Area == p2.Area)
     {
         double sum1 = p1.A + p1.B + p1.C;
         double sum2 = p2.A + p2.B + p2.C;
         return sum2.CompareTo(sum1);
     }
-    return 0;
+    else
+    {
+        return p2.Area.CompareTo(p1.Area);
+    }
 }
 pudelka.Sort(volumeComparer);
 Console.WriteLine();
 pudelka.ForEach(x => Console.WriteLine(x));
 
 
+Pudelko p7 = p.Kompresuj();
+Console.WriteLine(p7);
+
+
+Console.WriteLine();
+Losowe los = new Losowe(5, 11);
+foreach(var x in los)
+{
+    Console.WriteLine(x);
+}
+
+Console.WriteLine();
+los.Where(x => x > 7).ToList().ForEach(x => Console.WriteLine(x));
+
+
+Pudelko p8 = new Pudelko(1, 2, 3);
+Pudelko p9 = new Pudelko(1, 2, 3);
+Console.WriteLine(p8 == p9);
+Console.WriteLine(null == p9);
+Console.WriteLine(p8 == null);
+
+p8 = null;
+p9 = null;
+Console.WriteLine(p8 == p9);
+
+
+Pudelko p10 = Pudelko.Parse("2.500 mm × 9.321 mm × 0.100 mm");
+Console.WriteLine(p10);
