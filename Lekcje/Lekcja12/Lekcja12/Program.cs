@@ -1,6 +1,23 @@
 ﻿using Lekcja12;
+using Microsoft.EntityFrameworkCore;
 using System.Security.Cryptography;
 
+using (var context = new DataContext())
+{
+    var characters = context.Characters
+        .Include(x => x.User)
+        .Include(x => x.Types)
+        .Where(x => x.Lvl > 10)
+        .ToList();
+
+    characters.ForEach(x => Console.WriteLine(x.Name + " " + x.User.Email + " types: " + string.Join(", ", x.Types.Select(x => x.Name))));
+
+    //var type = context.CharacterTypes.FirstOrDefault(x => x.Key == 1);
+    //characters[0].Types.Add(type);
+    //context.SaveChanges();
+}
+
+Console.WriteLine();
 Console.WriteLine("[zaloguj][zarejestruj]");
 string option = Console.ReadLine();
 
@@ -12,7 +29,7 @@ if(option == "zaloguj")
     string password = Console.ReadLine();
     using (var context = new DataContext())
     {
-        var user = context.Users.FirstOrDefault(x => x.Email == email);
+        var user = context.Users.Include(x => x.Characters).FirstOrDefault(x => x.Email == email);
         if(user == null)
         {
             Console.WriteLine("Niepoprawne dane logowania");
@@ -24,8 +41,9 @@ if(option == "zaloguj")
             if(passwordHash.SequenceEqual(user.PasswordHash))
             {
                 Console.WriteLine($"Zalogowano! data rejestracji: {user.DateCreated}");
-                var characters = context.Characters.Where(x => x.User.Id == user.Id).ToList();
-                characters.ForEach(x => Console.WriteLine(x.Name));
+                //var characters = context.Characters.Where(x => x.User.Id == user.Id).ToList();
+                //characters.ForEach(x => Console.WriteLine(x.Name));
+                user.Characters.ForEach(x => Console.WriteLine(x.Name));
             }
             else
             {
@@ -57,3 +75,9 @@ else if(option == "zarejestruj")
         context.SaveChanges();
     }
 }
+
+//tablica ogloszen
+//rejestracja i logowanie uzytkownikow
+//mozliwosc dodania ogloszenia
+//mozliowsc przegladania ogloszen i kupna
+//mozliwosc sprawdzenia ktore przedmioty kupil uzytkownik

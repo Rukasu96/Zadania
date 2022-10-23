@@ -22,6 +22,21 @@ namespace Lekcja12.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder, 1L, 1);
 
+            modelBuilder.Entity("CharacterCharacterType", b =>
+                {
+                    b.Property<int>("CharactersId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("TypesKey")
+                        .HasColumnType("int");
+
+                    b.HasKey("CharactersId", "TypesKey");
+
+                    b.HasIndex("TypesKey");
+
+                    b.ToTable("CharacterCharacterType");
+                });
+
             modelBuilder.Entity("Lekcja12.Character", b =>
                 {
                     b.Property<int>("Id")
@@ -30,10 +45,6 @@ namespace Lekcja12.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
 
-                    b.Property<string>("Class")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
                     b.Property<int>("Lvl")
                         .HasColumnType("int");
 
@@ -41,7 +52,8 @@ namespace Lekcja12.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("UserId")
+                    b.Property<int?>("UserId")
+                        .IsRequired()
                         .HasColumnType("int");
 
                     b.HasKey("Id");
@@ -49,6 +61,24 @@ namespace Lekcja12.Migrations
                     b.HasIndex("UserId");
 
                     b.ToTable("Characters");
+                });
+
+            modelBuilder.Entity("Lekcja12.CharacterType", b =>
+                {
+                    b.Property<int>("Key")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Key"), 1L, 1);
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasMaxLength(50)
+                        .HasColumnType("nvarchar(50)");
+
+                    b.HasKey("Key");
+
+                    b.ToTable("CharacterTypes");
                 });
 
             modelBuilder.Entity("Lekcja12.User", b =>
@@ -86,15 +116,35 @@ namespace Lekcja12.Migrations
                     b.ToTable("Users");
                 });
 
+            modelBuilder.Entity("CharacterCharacterType", b =>
+                {
+                    b.HasOne("Lekcja12.Character", null)
+                        .WithMany()
+                        .HasForeignKey("CharactersId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("Lekcja12.CharacterType", null)
+                        .WithMany()
+                        .HasForeignKey("TypesKey")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+                });
+
             modelBuilder.Entity("Lekcja12.Character", b =>
                 {
                     b.HasOne("Lekcja12.User", "User")
-                        .WithMany()
+                        .WithMany("Characters")
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
                     b.Navigation("User");
+                });
+
+            modelBuilder.Entity("Lekcja12.User", b =>
+                {
+                    b.Navigation("Characters");
                 });
 #pragma warning restore 612, 618
         }

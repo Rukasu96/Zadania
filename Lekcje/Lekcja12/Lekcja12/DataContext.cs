@@ -16,6 +16,7 @@ namespace Lekcja12
        
         public DbSet<User> Users { get; set; }
         public DbSet<Character> Characters { get; set; }
+        public DbSet<CharacterType> CharacterTypes { get; set; }
     }
 }
 

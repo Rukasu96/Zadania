@@ -28,5 +28,7 @@ namespace Lekcja12
 
         [Required]
         public DateTime? DateCreated { get; set; } = DateTime.Now;
+
+        public List<Character>? Characters { get; set; }
     }
 }
