@@ -15,10 +15,9 @@ switch (option)
         Zarejestruj();
         break;
     default:
-        Console.WriteLine("Wpisza Zaloguj/Zarejestruj");
+        Console.WriteLine("Wpisz Zaloguj/Zarejestruj");
         break;
 }
-
 
 
 void DodajOgloszenie()
@@ -68,6 +67,7 @@ void DodajOgloszenie()
     Menu();
 }
 
+
 void Menu()
 {
     Console.WriteLine("1.Dodaj ogłoszenie\n2.Przeglądaj ogłoszenia\n3.Sprawdź jakie przedmioty kupiłeś\n4.Wyloguj");
@@ -81,6 +81,7 @@ void Menu()
             DodajOgloszenie();
             break;
         case "2":
+            PrzegladajOgloszenia();
             break;
         case "3":
             break;
@@ -93,6 +94,7 @@ void Menu()
             break;
     }
 }
+
 
 User Zaloguj()
 {
@@ -131,6 +133,7 @@ User Zaloguj()
     return user;
 }
 
+
 void Zarejestruj()
 {
     Console.WriteLine("Podaj nazwe uzytkownika");
@@ -164,4 +167,68 @@ void Zarejestruj()
     {
         Environment.Exit(1);
     }
+}
+
+
+void PrzegladajOgloszenia()
+{
+    Console.Clear();
+    Console.WriteLine("Ogłoszenia");
+    Console.WriteLine();
+    
+    int position = 0;
+
+    using (var context = new DataContext())
+    {
+        var ogloszenia = context.Ogloszenia.Select(x => x.Title).ToList();
+        ogloszenia.ForEach(x => Console.WriteLine($"{position++}.{x}"));
+    }
+    Console.WriteLine();
+    Console.WriteLine("Wpisz numer ogłoszenia które chcesz przejrzeć: ");
+    int option = int.Parse(Console.ReadLine());
+
+    if(option <= position)
+    {
+        WyswietlOgloszenie(option);
+    }
+    else
+    {
+        Console.WriteLine("Nie ma takiej pozycji");
+    }
+}
+
+
+void WyswietlOgloszenie(int option)
+{
+    Console.Clear();
+    using (var context = new DataContext())
+    {
+        var ogloszenie = context.Ogloszenia.FirstOrDefault(x => x.ID == option);
+        Console.WriteLine($"{ogloszenie.Title}");
+        Console.WriteLine();
+        Console.WriteLine($"{ogloszenie.Text}");
+        Console.WriteLine();
+        Console.WriteLine($"{ogloszenie.Price}");
+        Console.WriteLine();
+    }
+    Console.WriteLine("[Wstecz][Kup]");
+    string input = Console.ReadLine();
+    if(input == "Wstecz")
+    {
+        PrzegladajOgloszenia();
+    }else if(input == "Kup")
+    {
+        KupProdukt();
+    }
+    else
+    {
+        Console.WriteLine("Wpisz Wstecz/Kup");
+    }
+
+}
+
+
+void KupProdukt()
+{
+
 }
