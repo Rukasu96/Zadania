@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using System.Collections.Immutable;
 using TablicaOgloszen;
 
 User user = new User();
@@ -70,6 +71,7 @@ void DodajOgloszenie()
 
 void Menu()
 {
+    Console.Clear();
     Console.WriteLine("1.Dodaj ogłoszenie\n2.Przeglądaj ogłoszenia\n3.Sprawdź jakie przedmioty kupiłeś\n4.Wyloguj");
     Console.WriteLine();
     Console.WriteLine("Wpisz numer pozycji: ");
@@ -84,6 +86,7 @@ void Menu()
             PrzegladajOgloszenia();
             break;
         case "3":
+            PrzegladajKupioneProdukty();
             break;
         case "4":
             Console.WriteLine("Wylogowano");
@@ -201,9 +204,10 @@ void PrzegladajOgloszenia()
 void WyswietlOgloszenie(int option)
 {
     Console.Clear();
+    Ogloszenie ogloszenie;
     using (var context = new DataContext())
     {
-        var ogloszenie = context.Ogloszenia.FirstOrDefault(x => x.ID == option);
+        ogloszenie = context.Ogloszenia.FirstOrDefault(x => x.ID == option);
         Console.WriteLine($"{ogloszenie.Title}");
         Console.WriteLine();
         Console.WriteLine($"{ogloszenie.Text}");
@@ -218,7 +222,7 @@ void WyswietlOgloszenie(int option)
         PrzegladajOgloszenia();
     }else if(input == "Kup")
     {
-        KupProdukt();
+        KupProdukt(ogloszenie);
     }
     else
     {
@@ -228,7 +232,54 @@ void WyswietlOgloszenie(int option)
 }
 
 
-void KupProdukt()
+void KupProdukt(Ogloszenie ogloszenie)
 {
+    Console.Clear();
+    Console.WriteLine("Gratulacje, dokonałeś zakupu.");
 
+    user.Ogloszenia.Remove(ogloszenie);
+    user.KupioneProdukty.Add(ogloszenie);
+
+    using (var context = new DataContext())
+    {
+        context.Ogloszenia.Remove(ogloszenie);
+    }
+
+    Console.WriteLine("Naciśnij przycisk aby powrócić do menu.");
+    Console.ReadKey();
+    Menu();
+}
+
+void PrzegladajKupioneProdukty()
+{
+    Console.Clear();
+
+    int position = 0;
+
+    var ogloszenia = user.KupioneProdukty.Select(x => x.Title).ToList();
+    ogloszenia.ForEach(x => Console.WriteLine($"{position++}.{x}"));
+
+    Console.WriteLine();
+    Console.WriteLine("Wpisz numer ogłoszenia które chcesz przejrzeć: ");
+    int option = int.Parse(Console.ReadLine());
+
+    if (option <= position)
+    {
+        Console.Clear();
+        var ogloszenie = user.KupioneProdukty.FirstOrDefault(x => x.ID == option);
+        Console.WriteLine($"{ogloszenie.Title}");
+        Console.WriteLine();
+        Console.WriteLine($"{ogloszenie.Text}");
+        Console.WriteLine();
+        Console.WriteLine($"{ogloszenie.Price}");
+    }
+    else
+    {
+        Console.WriteLine("Nie ma takiej pozycji");
+    }
+
+    Console.WriteLine();
+    Console.WriteLine("Naciśnij przycisk aby powrócić do kupionych przedmiotów.");
+    Console.ReadKey();
+    PrzegladajKupioneProdukty();
 }
