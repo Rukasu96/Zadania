@@ -25,11 +25,12 @@ namespace TablicaOgloszen
         public string? Email { get; set; }
 
         public List<Ogloszenie>? Ogloszenia { get; set; }
-        public List<Ogloszenie>? KupioneProdukty { get; set; }
+        public List<KupioneOgloszenia>? KupioneProdukty { get; set; }
 
         public User()
         {
             Ogloszenia = new List<Ogloszenie>();
+            KupioneProdukty = new List<KupioneOgloszenia>();
         }
 
     }

@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Infrastructure.Internal;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -15,6 +16,7 @@ namespace TablicaOgloszen
         }
         public DbSet<User> Users { get; set; }
         public DbSet<Ogloszenie> Ogloszenia { get; set; }
+        public DbSet<KupioneOgloszenia> KupioneProdukty { get; set; }
 
     }
 }

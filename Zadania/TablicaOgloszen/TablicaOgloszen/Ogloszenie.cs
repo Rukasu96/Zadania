@@ -27,8 +27,5 @@ namespace TablicaOgloszen
 
         [ForeignKey("User")]
         public int? UserId { get; set; }
-
-
-
     }
 }
