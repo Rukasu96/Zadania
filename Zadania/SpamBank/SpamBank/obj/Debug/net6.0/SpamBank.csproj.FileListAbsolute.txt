@@ -1,0 +1,15 @@
+C:\Users\Kuksz\Desktop\MentoringC#\Zadania\Zadania\SpamBank\SpamBank\bin\Debug\net6.0\SpamBank.exe
+C:\Users\Kuksz\Desktop\MentoringC#\Zadania\Zadania\SpamBank\SpamBank\bin\Debug\net6.0\SpamBank.deps.json
+C:\Users\Kuksz\Desktop\MentoringC#\Zadania\Zadania\SpamBank\SpamBank\bin\Debug\net6.0\SpamBank.runtimeconfig.json
+C:\Users\Kuksz\Desktop\MentoringC#\Zadania\Zadania\SpamBank\SpamBank\bin\Debug\net6.0\SpamBank.dll
+C:\Users\Kuksz\Desktop\MentoringC#\Zadania\Zadania\SpamBank\SpamBank\bin\Debug\net6.0\SpamBank.pdb
+C:\Users\Kuksz\Desktop\MentoringC#\Zadania\Zadania\SpamBank\SpamBank\obj\Debug\net6.0\SpamBank.csproj.AssemblyReference.cache
+C:\Users\Kuksz\Desktop\MentoringC#\Zadania\Zadania\SpamBank\SpamBank\obj\Debug\net6.0\SpamBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuksz\Desktop\MentoringC#\Zadania\Zadania\SpamBank\SpamBank\obj\Debug\net6.0\SpamBank.AssemblyInfoInputs.cache
+C:\Users\Kuksz\Desktop\MentoringC#\Zadania\Zadania\SpamBank\SpamBank\obj\Debug\net6.0\SpamBank.AssemblyInfo.cs
+C:\Users\Kuksz\Desktop\MentoringC#\Zadania\Zadania\SpamBank\SpamBank\obj\Debug\net6.0\SpamBank.csproj.CoreCompileInputs.cache
+C:\Users\Kuksz\Desktop\MentoringC#\Zadania\Zadania\SpamBank\SpamBank\obj\Debug\net6.0\SpamBank.dll
+C:\Users\Kuksz\Desktop\MentoringC#\Zadania\Zadania\SpamBank\SpamBank\obj\Debug\net6.0\refint\SpamBank.dll
+C:\Users\Kuksz\Desktop\MentoringC#\Zadania\Zadania\SpamBank\SpamBank\obj\Debug\net6.0\SpamBank.pdb
+C:\Users\Kuksz\Desktop\MentoringC#\Zadania\Zadania\SpamBank\SpamBank\obj\Debug\net6.0\SpamBank.genruntimeconfig.cache
+C:\Users\Kuksz\Desktop\MentoringC#\Zadania\Zadania\SpamBank\SpamBank\obj\Debug\net6.0\ref\SpamBank.dll

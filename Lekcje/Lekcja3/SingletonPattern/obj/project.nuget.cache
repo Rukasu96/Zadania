@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FoIDhCNJ3f3lR9BnBueKWdLCNEV2BAAuu+qMVkJwN27uaCslLBMT2xnxVkgkIXNslkaUGh7rqgFa7P8KVSW6vQ==",
+  "dgSpecHash": "91IKHU4D76BiTeNOyQBIoliVyYtGVWHWxIXASzFEwUY38rmGzo+Tbn6HaJ/o7HDaDHQW5NkUU//iHESBcTE75w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kuksz\\Desktop\\Lekcje\\Lekcja3\\SingletonPattern\\SingletonPattern.csproj",
+  "projectFilePath": "C:\\Users\\Kuksz\\Desktop\\MentoringC#\\Zadania\\Lekcje\\Lekcja3\\SingletonPattern\\SingletonPattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
