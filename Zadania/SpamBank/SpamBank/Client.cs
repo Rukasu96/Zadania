@@ -8,20 +8,26 @@ namespace SpamBank
 {
     internal class Client : ISubscriber
     {
-        private List<string> Spam;
-
+        private List<string> spam;
+        private bool getSpam;
         public string Name { get; set; }
 
-        public Client(string name)
+        public Client(string name, bool getSpam, Bank bank)
         {
             Name = name;
-            Spam = new List<string>();
+            spam = new List<string>();
+            this.getSpam = getSpam;
+
+            if(this.getSpam)
+            {
+                bank.addSubscriber(this);
+            }
         }
 
         public void CheckSpam()
         {
             Console.WriteLine(Name);
-            foreach(var message in Spam)
+            foreach(var message in spam)
             {
                 Console.WriteLine(message);
             }
@@ -30,7 +36,7 @@ namespace SpamBank
 
         public void update(string message)
         {
-            Spam.Add(message);
+            spam.Add(message);
         }
 
     }

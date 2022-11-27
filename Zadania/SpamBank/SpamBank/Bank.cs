@@ -25,6 +25,31 @@ namespace SpamBank
             subscribers.Remove(subscriber);
         }
 
+        public void WriteMessage()
+        {
+            bool isFinish = false;
+            Console.WriteLine("Wpisz wiadomość dla właścicieli");
+
+            do
+            {
+                Console.WriteLine("Wiadomość: ");
+                string input = Console.ReadLine();
+
+                SendMessage(input);
+
+                Console.WriteLine("Czy napisać kolejną? Y/N");
+                input = Console.ReadLine();
+                if(input == "Y")
+                {
+                    isFinish = false;
+                }else if(input == "N")
+                {
+                    isFinish = true;
+                }
+
+            } while (isFinish == false);
+        }
+
         public void SendMessage(string message)
         {
             foreach(var subscriber in subscribers)

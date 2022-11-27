@@ -1,18 +1,12 @@
 ﻿using SpamBank;
 
 Bank bank = new Bank();
-Client client1 = new Client("Łukasz");
-Client client2 = new Client("Bartosz");
-Client client3 = new Client("Radosław");
-Client client4 = new Client("Karol");
+Client client1 = new Client("Łukasz",true, bank);
+Client client2 = new Client("Bartosz", true, bank);
+Client client3 = new Client("Radosław", false, bank);
+Client client4 = new Client("Karol", true, bank);
 
-bank.addSubscriber(client1);
-bank.addSubscriber(client2);
-bank.addSubscriber(client4);
-
-bank.SendMessage("Weź kredyt");
-bank.SendMessage("Rachunki zostały opłacone");
-bank.SendMessage("Zgłoś się do banku po chwilówke");
+bank.WriteMessage();
 
 client1.CheckSpam();
 client2.CheckSpam();
