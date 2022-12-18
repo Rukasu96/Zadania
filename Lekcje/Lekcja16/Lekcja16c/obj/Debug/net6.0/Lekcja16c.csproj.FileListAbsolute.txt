@@ -1,0 +1,15 @@
+C:\Users\Kuksz\Desktop\MentoringC#\Zadania\Lekcje\Lekcja16\Lekcja16c\bin\Debug\net6.0\Lekcja16c.exe
+C:\Users\Kuksz\Desktop\MentoringC#\Zadania\Lekcje\Lekcja16\Lekcja16c\bin\Debug\net6.0\Lekcja16c.deps.json
+C:\Users\Kuksz\Desktop\MentoringC#\Zadania\Lekcje\Lekcja16\Lekcja16c\bin\Debug\net6.0\Lekcja16c.runtimeconfig.json
+C:\Users\Kuksz\Desktop\MentoringC#\Zadania\Lekcje\Lekcja16\Lekcja16c\bin\Debug\net6.0\Lekcja16c.dll
+C:\Users\Kuksz\Desktop\MentoringC#\Zadania\Lekcje\Lekcja16\Lekcja16c\bin\Debug\net6.0\Lekcja16c.pdb
+C:\Users\Kuksz\Desktop\MentoringC#\Zadania\Lekcje\Lekcja16\Lekcja16c\obj\Debug\net6.0\Lekcja16c.csproj.AssemblyReference.cache
+C:\Users\Kuksz\Desktop\MentoringC#\Zadania\Lekcje\Lekcja16\Lekcja16c\obj\Debug\net6.0\Lekcja16c.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuksz\Desktop\MentoringC#\Zadania\Lekcje\Lekcja16\Lekcja16c\obj\Debug\net6.0\Lekcja16c.AssemblyInfoInputs.cache
+C:\Users\Kuksz\Desktop\MentoringC#\Zadania\Lekcje\Lekcja16\Lekcja16c\obj\Debug\net6.0\Lekcja16c.AssemblyInfo.cs
+C:\Users\Kuksz\Desktop\MentoringC#\Zadania\Lekcje\Lekcja16\Lekcja16c\obj\Debug\net6.0\Lekcja16c.csproj.CoreCompileInputs.cache
+C:\Users\Kuksz\Desktop\MentoringC#\Zadania\Lekcje\Lekcja16\Lekcja16c\obj\Debug\net6.0\Lekcja16c.dll
+C:\Users\Kuksz\Desktop\MentoringC#\Zadania\Lekcje\Lekcja16\Lekcja16c\obj\Debug\net6.0\refint\Lekcja16c.dll
+C:\Users\Kuksz\Desktop\MentoringC#\Zadania\Lekcje\Lekcja16\Lekcja16c\obj\Debug\net6.0\Lekcja16c.pdb
+C:\Users\Kuksz\Desktop\MentoringC#\Zadania\Lekcje\Lekcja16\Lekcja16c\obj\Debug\net6.0\Lekcja16c.genruntimeconfig.cache
+C:\Users\Kuksz\Desktop\MentoringC#\Zadania\Lekcje\Lekcja16\Lekcja16c\obj\Debug\net6.0\ref\Lekcja16c.dll
