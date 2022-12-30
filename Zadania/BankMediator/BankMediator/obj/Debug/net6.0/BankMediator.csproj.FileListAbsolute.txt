@@ -1,0 +1,15 @@
+C:\Users\Kuksz\Desktop\MentoringC#\Zadania\Lekcje\BankMediator\BankMediator\bin\Debug\net6.0\BankMediator.exe
+C:\Users\Kuksz\Desktop\MentoringC#\Zadania\Lekcje\BankMediator\BankMediator\bin\Debug\net6.0\BankMediator.deps.json
+C:\Users\Kuksz\Desktop\MentoringC#\Zadania\Lekcje\BankMediator\BankMediator\bin\Debug\net6.0\BankMediator.runtimeconfig.json
+C:\Users\Kuksz\Desktop\MentoringC#\Zadania\Lekcje\BankMediator\BankMediator\bin\Debug\net6.0\BankMediator.dll
+C:\Users\Kuksz\Desktop\MentoringC#\Zadania\Lekcje\BankMediator\BankMediator\bin\Debug\net6.0\BankMediator.pdb
+C:\Users\Kuksz\Desktop\MentoringC#\Zadania\Lekcje\BankMediator\BankMediator\obj\Debug\net6.0\BankMediator.csproj.AssemblyReference.cache
+C:\Users\Kuksz\Desktop\MentoringC#\Zadania\Lekcje\BankMediator\BankMediator\obj\Debug\net6.0\BankMediator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuksz\Desktop\MentoringC#\Zadania\Lekcje\BankMediator\BankMediator\obj\Debug\net6.0\BankMediator.AssemblyInfoInputs.cache
+C:\Users\Kuksz\Desktop\MentoringC#\Zadania\Lekcje\BankMediator\BankMediator\obj\Debug\net6.0\BankMediator.AssemblyInfo.cs
+C:\Users\Kuksz\Desktop\MentoringC#\Zadania\Lekcje\BankMediator\BankMediator\obj\Debug\net6.0\BankMediator.csproj.CoreCompileInputs.cache
+C:\Users\Kuksz\Desktop\MentoringC#\Zadania\Lekcje\BankMediator\BankMediator\obj\Debug\net6.0\BankMediator.dll
+C:\Users\Kuksz\Desktop\MentoringC#\Zadania\Lekcje\BankMediator\BankMediator\obj\Debug\net6.0\refint\BankMediator.dll
+C:\Users\Kuksz\Desktop\MentoringC#\Zadania\Lekcje\BankMediator\BankMediator\obj\Debug\net6.0\BankMediator.pdb
+C:\Users\Kuksz\Desktop\MentoringC#\Zadania\Lekcje\BankMediator\BankMediator\obj\Debug\net6.0\BankMediator.genruntimeconfig.cache
+C:\Users\Kuksz\Desktop\MentoringC#\Zadania\Lekcje\BankMediator\BankMediator\obj\Debug\net6.0\ref\BankMediator.dll
