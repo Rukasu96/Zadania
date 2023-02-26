@@ -1,0 +1,15 @@
+C:\Users\Kuksz\Desktop\Zadania\Lekcje\KeyboardObserverProject\KeyboardObserverProject\bin\Debug\net6.0\KeyboardObserverProject.exe
+C:\Users\Kuksz\Desktop\Zadania\Lekcje\KeyboardObserverProject\KeyboardObserverProject\bin\Debug\net6.0\KeyboardObserverProject.deps.json
+C:\Users\Kuksz\Desktop\Zadania\Lekcje\KeyboardObserverProject\KeyboardObserverProject\bin\Debug\net6.0\KeyboardObserverProject.runtimeconfig.json
+C:\Users\Kuksz\Desktop\Zadania\Lekcje\KeyboardObserverProject\KeyboardObserverProject\bin\Debug\net6.0\KeyboardObserverProject.dll
+C:\Users\Kuksz\Desktop\Zadania\Lekcje\KeyboardObserverProject\KeyboardObserverProject\bin\Debug\net6.0\KeyboardObserverProject.pdb
+C:\Users\Kuksz\Desktop\Zadania\Lekcje\KeyboardObserverProject\KeyboardObserverProject\obj\Debug\net6.0\KeyboardObserverProject.csproj.AssemblyReference.cache
+C:\Users\Kuksz\Desktop\Zadania\Lekcje\KeyboardObserverProject\KeyboardObserverProject\obj\Debug\net6.0\KeyboardObserverProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuksz\Desktop\Zadania\Lekcje\KeyboardObserverProject\KeyboardObserverProject\obj\Debug\net6.0\KeyboardObserverProject.AssemblyInfoInputs.cache
+C:\Users\Kuksz\Desktop\Zadania\Lekcje\KeyboardObserverProject\KeyboardObserverProject\obj\Debug\net6.0\KeyboardObserverProject.AssemblyInfo.cs
+C:\Users\Kuksz\Desktop\Zadania\Lekcje\KeyboardObserverProject\KeyboardObserverProject\obj\Debug\net6.0\KeyboardObserverProject.csproj.CoreCompileInputs.cache
+C:\Users\Kuksz\Desktop\Zadania\Lekcje\KeyboardObserverProject\KeyboardObserverProject\obj\Debug\net6.0\KeyboardObserverProject.dll
+C:\Users\Kuksz\Desktop\Zadania\Lekcje\KeyboardObserverProject\KeyboardObserverProject\obj\Debug\net6.0\refint\KeyboardObserverProject.dll
+C:\Users\Kuksz\Desktop\Zadania\Lekcje\KeyboardObserverProject\KeyboardObserverProject\obj\Debug\net6.0\KeyboardObserverProject.pdb
+C:\Users\Kuksz\Desktop\Zadania\Lekcje\KeyboardObserverProject\KeyboardObserverProject\obj\Debug\net6.0\KeyboardObserverProject.genruntimeconfig.cache
+C:\Users\Kuksz\Desktop\Zadania\Lekcje\KeyboardObserverProject\KeyboardObserverProject\obj\Debug\net6.0\ref\KeyboardObserverProject.dll

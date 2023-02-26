@@ -19,5 +19,15 @@ namespace Lekcja19
 
         [Range(0, 10000)]
         public double SalePrice { get; set; }
+
+        [Range(1, 100000)]
+        public int Id { get; set; }
+
+        public GameData() { Console.WriteLine("Tworzony jest obiekt klasy GameData"); }   
+
+        private void IncreaseId()
+        {
+            Id++;
+        }
     }
 }
